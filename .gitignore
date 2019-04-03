@@ -1,0 +1,3 @@
+# Ignores the following folders:
+Other
+CIRCUITPY/lib
